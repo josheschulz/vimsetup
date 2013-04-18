@@ -8,4 +8,3 @@
  set bg=dark
  let g:NERDTreeDirArrows=0
  nmap tv :NERDTreeToggle<CR>
- nmap tl :TlistToggle<CR>
